@@ -10,3 +10,12 @@
 
 4. allow for datasets to be combined
 
+## Jupyter Notebook
+- Online Interface that connects to a Python Kernel.
+
+## Pandas
+- Python Library for handling data
+- Panel Data --> panel another name for table
+- Pandas is DataFrame Object
+- "%matplotlib inline" --> print the graphs and be done.
+- 
