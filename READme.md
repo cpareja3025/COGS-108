@@ -18,4 +18,8 @@
 - Panel Data --> panel another name for table
 - Pandas is DataFrame Object
 - "%matplotlib inline" --> print the graphs and be done.
-- 
+
+## Principal Component Analysis (PCA)
+- Linear Transformation of highly dimensional data
+## Instrument Component Analysis
+- Non-linear transformations
